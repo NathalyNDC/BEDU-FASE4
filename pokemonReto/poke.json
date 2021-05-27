@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ash Ketchup",
+      "region": "kanto",
+      "pokemon": ["Pikachu", "Charmander","Squirtle"]
+    },
+
+    {
+        "id": 2,
+        "nombre": "Gary",
+        "region": "kanto",
+        "pokemon": ["Evee", "Ombreon","Squirtle"]
+    },
+    {
+        "id": 3,
+        "nombre": "Brooke",
+        "region": "kanto",
+        "pokemon": ["Snorlax", "Pulpix","Squirtle"]
+      },
+      {
+        "id": 4,
+        "nombre": "Misty",
+        "region": "kanto",
+        "pokemon": ["Tokepi", "Starmie","Squirtle"]
+      }
+  ]
+  
